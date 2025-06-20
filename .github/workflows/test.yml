@@ -26,5 +26,5 @@ jobs:
 
       - name: Run Selection Sort Tests
         run: |
-          cd git statyselection_sort
+          cd git selection_sort
           pytest
